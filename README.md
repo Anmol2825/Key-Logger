@@ -1,1 +1,1 @@
-# Key-Logger
+Used Android Studio in Koltin language to make a meme app which has options to load new memes and share those memes. Used APIs and also managed the internet and connect through the app. Added a reload button in centre to make it user interactive
